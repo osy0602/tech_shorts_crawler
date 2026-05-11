@@ -1,0 +1,130 @@
+📰 테크 뉴스 헤드라인 — 2026-05-11
+==================================================
+
+[Hacker News]
+제목: Hardware Attestation as Monopoly Enabler
+요약: <a href="https://news.ycombinator.com/item?id=48086190">Comments</a>
+링크: https://grapheneos.social/@GrapheneOS/116550899908879585
+----------------------------------------
+[Hacker News]
+제목: Local AI needs to be the norm
+요약: <a href="https://news.ycombinator.com/item?id=48085821">Comments</a>
+링크: https://unix.foo/posts/local-ai-needs-to-be-norm/
+----------------------------------------
+[Hacker News]
+제목: The greatest shot in television: James Burke had one chance to nail this scene (2024)
+요약: <a href="https://news.ycombinator.com/item?id=48090521">Comments</a>
+링크: https://www.openculture.com/2024/10/the-greatest-shot-in-television.html
+----------------------------------------
+[Hacker News]
+제목: I'm going back to writing code by hand
+요약: <a href="https://news.ycombinator.com/item?id=48090029">Comments</a>
+링크: https://blog.k10s.dev/im-going-back-to-writing-code-by-hand/
+----------------------------------------
+[Hacker News]
+제목: Running local models on an M4 with 24GB memory
+요약: <a href="https://news.ycombinator.com/item?id=48089091">Comments</a>
+링크: https://jola.dev/posts/running-local-models-on-m4
+----------------------------------------
+[TechCrunch]
+제목: Get ready for the whisper-filled office of the future
+요약: How will work setups change if we spend more and more time talking to our computers?
+링크: https://techcrunch.com/2026/05/10/get-ready-for-the-whisper-filled-office-of-the-future/
+----------------------------------------
+[TechCrunch]
+제목: Anthropic says ‘evil’ portrayals of AI were responsible for Claude’s blackmail attempts
+요약: Fictional portrayals of artificial intelligence can have a real effect on AI models, according to Anthropic.
+링크: https://techcrunch.com/2026/05/10/anthropic-says-evil-portrayals-of-ai-were-responsible-for-claudes-blackmail-attempts/
+----------------------------------------
+[TechCrunch]
+제목: Uber has always wanted to be more than a ride; now it has reason to hurry
+요약: The company has been trying to embed itself inside the AV industry — as a data provider, an investor, and a distribution platform — but the consumer-facing bet may be just as important.
+링크: https://techcrunch.com/2026/05/10/uber-has-always-wanted-to-be-more-than-a-ride-now-it-has-reason-to-hurry/
+----------------------------------------
+[TechCrunch]
+제목: TechCrunch Mobility: Lime’s IPO gamble
+요약: Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, how AI is playing a part.
+링크: https://techcrunch.com/2026/05/10/techcrunch-mobility-limes-ipo-gamble/
+----------------------------------------
+[TechCrunch]
+제목: We’re feeling cynical about xAI’s big deal with Anthropic
+요약: On the latest episode of the Equity podcast, we discussed what xAI's deal with Anthropic might mean for parent company SpaceX.
+링크: https://techcrunch.com/2026/05/10/were-feeling-cynical-about-xais-big-deal-with-anthropic/
+----------------------------------------
+[The Verge]
+제목: Forza Horizon 6 has been leaked and cracked a week before its release
+요약: The full version of Playground Games' upcoming Forza Horizon 6 game has leaked online over the weekend and has already been cracked by pirates. The download appeared on file sharing sites after some Steam users were allegedly able to obtain access to an unencrypted preload version of the game. Forza
+링크: https://www.theverge.com/news/927704/forza-horizon-6-leak-cracked
+----------------------------------------
+[The Verge]
+제목: Logitech’s tiny folding mouse improves upon the laptop trackpad
+요약: Logitech is reportedly developing a new wireless mouse that folds in half to make it easier to carry around in a bag or pocket. According to leaked marketing images shared by WinFuture, Logitech's foldable mouse caused "22 percent less muscle strain" compared to using a laptop trackpad, and can be u
+링크: https://www.theverge.com/tech/927695/logitech-folding-mouse-leaked-images
+----------------------------------------
+[The Verge]
+제목: The Bastl Kalimba is a wild synth that thinks it’s a thumb piano
+요약: Make no mistake, the Bastl Kalimba is a synthesizer, you just play it like a kalimba. Its tines don't really make much sound. There is an internal mic that you can blend in for a little acoustic spice, but it's mostly driven by the synth engine that combines physical modeling and FM. The tines are [
+링크: https://www.theverge.com/tech/927638/the-bastl-kalimba-is-a-wild-synth-that-thinks-its-a-thumb-piano
+----------------------------------------
+[The Verge]
+제목: Ashnymph’s Childhood EP is exhilarating dance goth rock
+요약: I've got to thank my oldest friend and concert buddy, Tim, for turning me on to this one. Ashnymph is a London band that blends post-punk melodies with Krautrock rhythms and industrial grime. Their debut EP, Childhood, drifts between dreamy vocals buried in layers of reverb and four-on-the-floor dan
+링크: https://www.theverge.com/entertainment/927620/ashnymph-childhood-ep-music-review
+----------------------------------------
+[The Verge]
+제목: Cricut’s $99 craft cutting machine helped me feel creative again
+요약: I've always been skeptical of products that claim to help you lead a more creative life. But one recently won me over. I've spent three weeks with the Cricut Joy 2, a smart cutting and drawing machine that made it easy for me to get back into making stickers, cards, bookmarks, and more. The small [&
+링크: https://www.theverge.com/gadgets/924281/cricut-joy-2-smart-cutting-machine-printer-hands-on
+----------------------------------------
+[Ars Technica]
+제목: Chaos erupts as cyberattack disrupts learning platform Canvas amid finals
+요약: Across the country, schools and colleges postpone year-end tests.
+링크: https://arstechnica.com/security/2026/05/chaos-erupts-as-cyberattack-disrupts-learning-platform-canvas-amid-finals/
+----------------------------------------
+[Ars Technica]
+제목: Mozilla says 271 vulnerabilities found by Mythos have "almost no false positives"
+요약: The developer of Firefox says it has "completely bought in" on AI-assisted bug discovery.
+링크: https://arstechnica.com/information-technology/2026/05/mozilla-says-271-vulnerabilities-found-by-mythos-have-almost-no-false-positives/
+----------------------------------------
+[Ars Technica]
+제목: Ars Asks: Share your shell and show us your tricked-out terminals!
+요약: A celebration of the tweaks and customizations that make life easier at the CLI.
+링크: https://arstechnica.com/information-technology/2026/05/ars-asks-share-your-shell-and-show-us-your-tricked-out-terminals/
+----------------------------------------
+[Ars Technica]
+제목: Widely used Daemon Tools disk app backdoored in monthlong supply-chain attack
+요약: Daemon Tools users: It's time to check your machines for stealthy infections, stat.
+링크: https://arstechnica.com/security/2026/05/widely-used-daemon-tools-disk-app-backdoored-in-monthlong-supply-chain-attack/
+----------------------------------------
+[Ars Technica]
+제목: Why Reddit blocked my daily visit to its mobile website
+요약: Reddit REALLY wants you to use its app.
+링크: https://arstechnica.com/information-technology/2026/05/why-reddit-blocked-my-daily-visit-to-its-mobile-website/
+----------------------------------------
+[MIT Tech Review]
+제목: Musk v. Altman week 2: OpenAI fires back, and Shivon Zilis reveals that Musk tried to poach Sam Altman
+요약: In the second week of the landmark trial between Elon Musk and OpenAI, Musk’s motivations for bringing the suit were under scrutiny. Last week, Musk took the stand, alleging that OpenAI CEO Sam Altman and president Greg Brockman had deceived him into donating $38 million to the company. He claimed t
+링크: https://www.technologyreview.com/2026/05/08/1137008/musk-v-altman-week-2-openai-fires-back-and-shivon-zilis-reveals-that-musk-tried-to-poach-sam-altman/
+----------------------------------------
+[MIT Tech Review]
+제목: Here’s what you need to know about the cruise ship hantavirus outbreak
+요약: MIT Technology Review Explains: Let our writers untangle the complex, messy world of technology to help you understand what’s coming next. You can read more from the series here. Eight passengers aboard a Dutch-flagged cruise ship have contracted a type of hantavirus, a rare virus transmitted by rat
+링크: https://www.technologyreview.com/2026/05/08/1136988/heres-what-you-need-to-know-about-the-cruise-ship-hantavirus-outbreak/
+----------------------------------------
+[MIT Tech Review]
+제목: The Download: AI malaise and babymaking tech
+요약: This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. We’ve entered the era of AI malaise AI is spreading everywhere, and it is not going away. But what will it do? What effect will it have on our society
+링크: https://www.technologyreview.com/2026/05/08/1136985/the-download-ai-malaise-babymaking-ivf-tech/
+----------------------------------------
+[MIT Tech Review]
+제목: Here’s how technology transformed babymaking
+요약: Technology is changing the way we make babies. The pioneering work of the scientists who invented IVF led to the birth of the first “test tube baby” in 1978. We’ve come a long, long way since then. This week, I’ve been working on a piece about the cutting edge of IVF technologies and what’s coming&#
+링크: https://www.technologyreview.com/2026/05/08/1136974/heres-how-technology-transformed-babymaking-ivf/
+----------------------------------------
+[MIT Tech Review]
+제목: The Download: the tech reshaping IVF and the rise of balcony solar
+요약: This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. What’s next for IVF IVF has brought millions of babies into the world over the last four decades. But the process can still be slow, painful, and expe
+링크: https://www.technologyreview.com/2026/05/07/1136956/the-download-ivf-tech-balcony-solar/
+----------------------------------------
+
+총 25개 수집
